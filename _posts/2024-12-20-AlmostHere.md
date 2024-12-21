@@ -1,5 +1,5 @@
 ---
-title: "Christmas is almost here"
+title: Christmas is almost here
 date: 2025-12-20
 ---
 
